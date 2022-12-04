@@ -16,7 +16,7 @@ public class HesaplamaBolme {
 		return 0;
 	}
 
-	double toplama(int sayi1, int sayi2) {
+	double bolme(int sayi1, int sayi2) {
 		float sonuc = sayi1 / sayi2;
 		return sonuc;
 	}
